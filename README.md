@@ -1,5 +1,5 @@
 # Otaku-Aparrel-Utsab
-
+@ https://utsab-2010.github.io/Otaku-Aparrel-Utsab/
 This is my submission for the web team selection round of the Branding and Relations Cell, IIT Kharagpur. 
 
 This website only works well on PC screens. I tried to make it responsive but the layouts turned into a nightmare so decided against itgiven the time constraint.
